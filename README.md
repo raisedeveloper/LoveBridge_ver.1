@@ -37,7 +37,6 @@
 #       React Query : [tanstack] == https://tanstack.com/query/latest/docs/framework/react/installation
       
 #       AWS 인스턴스 접속 MobaXterm == https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false
-#       MobaXterm sql password == id: hmuser / pass: Twins!234 - 사용중인 인스턴스: i-0f76e1b6869f26e21
 #       기술체인
 #       google API == https://console.cloud.google.com/apis/credentials/key/d8e1e7b0-f87e-4044-9b91-b596bf368595?project=sylvan-shuttle-420001
 #       firebase app 개발 사이트 == https://firebase.google.com/?hl=ko
